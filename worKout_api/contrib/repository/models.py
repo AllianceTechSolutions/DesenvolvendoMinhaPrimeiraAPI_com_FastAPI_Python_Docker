@@ -1,0 +1,3 @@
+from worKout_api.categorias.models import CategoriasModel
+from worKout_api.atleta.models import AtletaModel
+from worKout_api.centro_treinamento.models import CentroTreinamentoModelModel
